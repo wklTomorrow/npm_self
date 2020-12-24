@@ -6,7 +6,7 @@ const Es6 = () => {
     console.log('es6')
 }
 
-module.export = {
+module.exports = {
     Es6,
     Test
 };
